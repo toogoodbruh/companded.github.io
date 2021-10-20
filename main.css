@@ -28,4 +28,9 @@
     height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
+    border-color: red;
+}
+
+.content p {
+    text-align: center;
 }
