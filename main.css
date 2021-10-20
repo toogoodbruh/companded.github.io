@@ -24,5 +24,7 @@
 }
 
 .slide-show {
-
+    height: 600px;
+    background-image:url(https://images.toogoodbruh.com/IMG_8651.HEIC);
+    background-color: yellowgreen;
 }
