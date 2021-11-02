@@ -30,8 +30,7 @@
     border-image-width: auto;
     height: 600px;
     background-size: cover;
-    background-repeat: no-repeat;
-    border-color: red;
+    background-repeat: no-repeat;;
 }
 
 .content p {
