@@ -28,7 +28,7 @@
 .slide-show {
     background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
     border-image-width: auto;
-    height: auto;
+    height: 800px;
     background-size: cover;
     background-repeat: no-repeat;
     border-color: red;
