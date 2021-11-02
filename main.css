@@ -21,13 +21,14 @@
     float: right;
 }
 
-.slide-show {
+.slide-show h1 {
     align-content: center;
 }
 
 .slide-show {
-    background-image:url('https://images.toogoodbruh.com/beetlehome.png');
-    height: 600px;
+    background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
+    border-image-width: auto;
+    height: auto;
     background-size: cover;
     background-repeat: no-repeat;
     border-color: red;
