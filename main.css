@@ -42,6 +42,9 @@
     word-wrap: break-word;
 }
 
+.about-cols img {
+    width: inherit;
+}
 
 .header {
     padding: 30px 10px;
