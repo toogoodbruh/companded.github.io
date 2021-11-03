@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
-body {
+.body {
     margin: 0px;
-    padding: 0px 2px;
 }
 .nav {
     padding: 20px 0px 0px 0px;
