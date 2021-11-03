@@ -39,7 +39,7 @@
 .col-md-2 {
     padding: 10px 40px;
     width: 600px;
-    word-wrap: normal;
+    word-wrap: break-word;
 }
 
 .header {
