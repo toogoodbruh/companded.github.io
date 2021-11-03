@@ -43,6 +43,7 @@
     padding: 10px 40px;
     width: 600px;
     word-wrap: break-word;
+    align-content: center;
 }
 
 .about-cols img {
@@ -51,5 +52,5 @@
 
 .header {
     padding: 30px 10px;
-    font-size: 30px;
+    font-size: 40px;
 }
