@@ -36,11 +36,12 @@
     text-align: center;
 }
 
-.col-md-2 {
+.about-cols {
     padding: 10px 40px;
     width: 600px;
     word-wrap: break-word;
 }
+
 
 .header {
     padding: 30px 10px;
