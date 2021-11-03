@@ -50,6 +50,10 @@
     width: 600px;
 }
 
+.about-cols p {
+    font-size: 18px;
+}
+
 .header {
     padding: 30px 10px;
     font-size: 40px;
