@@ -101,6 +101,7 @@ p {
     background-repeat: no-repeat;
     background-size: contain;
     height: 800px;
+    top: 100px;
 }
 
 .content p {
