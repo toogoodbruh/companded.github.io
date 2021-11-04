@@ -27,6 +27,11 @@
     float: right;
 }
 
+.container {
+    position: relative;
+    margin: auto;
+}
+
 .slide-show {
     background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
     border-image-width: auto;
@@ -40,10 +45,10 @@
 }
 
 .about-cols {
-    padding: 10px 40px;
+    padding: 10px;
     width: 600px;
     word-wrap: break-word;
-    align-content: center;
+    justify-content: center;
 }
 
 .about-cols img {
