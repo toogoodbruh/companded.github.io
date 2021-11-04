@@ -41,6 +41,10 @@ a {
     font-size-adjust: auto;
 }
 
+p {
+    font-size: 15px;
+}
+
 .nav li {
     display: inline;
 }
