@@ -43,7 +43,7 @@ a {
 
 p {
     font-size: 15px;
-    word-wrap: normal;
+    overflow-wrap: break-word;
 }
 
 .nav li {
@@ -109,7 +109,7 @@ p {
 
 .about-cols .row {
     padding: 30px 0px;
-    word-wrap: break-word;
+    /*word-wrap: break-word;*/
     /*width: 600px; */
     justify-content: center;
     border-top: thin;
