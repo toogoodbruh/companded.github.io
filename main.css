@@ -62,7 +62,7 @@ html, body {
 } */
 
 .site_footer {
-    position: absolute;
+    position: relative;
     width: 100%;
     text-align: center;
     border-top: ridge;
