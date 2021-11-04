@@ -99,11 +99,11 @@ a {
 }
 
 .slide-show {
-    background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
-    background-size: contain;
-    height: 850px;
-    /*height: 700px;*/
+    /*background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); */
+    background-image:url(beetlehome.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
+    height: 700px;
 }
 
 .content p {
