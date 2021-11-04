@@ -60,7 +60,8 @@ a {
 }
 
 .content {
-    padding-bottom: 20px;
+    position: relative;
+    padding: 20px 0px;
     /*min-height: calc(70vh - 70px);*/
 }
 
