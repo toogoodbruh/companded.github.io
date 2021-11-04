@@ -32,6 +32,10 @@
     margin: auto;
 }
 
+.content {
+    padding-bottom: 1500px;
+}
+
 .slide-show {
     background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
     border-image-width: auto;
@@ -44,15 +48,16 @@
     text-align: center;
 }
 
-.about-cols {
-    padding: 10px;
-    width: 600px;
+.about-cols .row {
+    padding-top: 30px;
     word-wrap: break-word;
+    /*width: 600px; */
     justify-content: center;
 }
 
+
 .about-cols img {
-    width: 600px;
+    width: 450px;
 }
 
 .about-cols p {
