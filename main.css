@@ -19,6 +19,8 @@ html, body {
 
 .body {
     margin: 0px;
+    display: flex;
+    flex-direction: column;
 }
 .nav {
     padding: 20px 0px 0px 0px;
@@ -47,11 +49,21 @@ html, body {
 .container {
     position: relative;
     margin: auto;
+    flex-grow: 1;
 }
 
 .content {
     padding-bottom: 15px;
     /*min-height: calc(70vh - 70px);*/
+}
+
+.page_container {
+    position: relative;
+    min-height: 100%;
+}
+
+.content-wrap {
+    padding-bottom: 20px;
 }
 
 /*.site_footer {
@@ -62,7 +74,8 @@ html, body {
 } */
 
 .site_footer {
-    position: relative;
+    position: absolute;
+    margin-top: auto;
     width: 100%;
     text-align: center;
     border-top: ridge;
@@ -82,7 +95,7 @@ html, body {
     border-image-width: auto;
     height: 700px;
     background-size: cover;
-    background-repeat: no-repeat;;
+    background-repeat: no-repeat;
 }
 
 .content p {
