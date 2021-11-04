@@ -50,7 +50,8 @@ html, body {
 }
 
 .content {
-    padding-bottom: 1500px;
+    padding-bottom: 15px;
+    min-height: calc(70vh - 70px);
 }
 
 /*.site_footer {
@@ -62,7 +63,7 @@ html, body {
 
 .site_footer {
     text-align: center;
-    height: auto; 
+    height: 70px; 
     border-top: ridge;
     padding: 20px 0px;
 }
