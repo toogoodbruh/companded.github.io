@@ -1,5 +1,22 @@
 @charset "UTF-8";
 /* CSS Document */
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+/**/
+
 .body {
     margin: 0px;
 }
@@ -34,6 +51,25 @@
 
 .content {
     padding-bottom: 1500px;
+}
+
+/*.site_footer {
+    padding: 20px 20px;
+    height: auto;
+    align: center;
+    font-size: 18px;
+} */
+
+.site_footer {
+    text-align: center;
+    height: auto; 
+    border-top: ridge;
+    padding: 20px 0px;
+}
+
+.site_footer a {
+    font-size: 18px;
+    padding: 0px 30px;
 }
 
 .slide-show {
