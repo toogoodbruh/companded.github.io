@@ -43,6 +43,7 @@ a {
 
 p {
     font-size: 15px;
+    word-wrap: normal;
 }
 
 .nav li {
