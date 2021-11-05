@@ -121,6 +121,7 @@ p {
 .about-cols img {
     /*width: 450px;*/
     width: 85%;
+    padding: 20px 0px;
 }
 
 .about-cols p {
