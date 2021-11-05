@@ -145,7 +145,10 @@ p {
     padding: 20px 20px;
 }
 
-.header p {
-    padding: 30px 10px;
+.header {
+    padding: 10px 10px;
+}
+
+.header h3{
     font-size: 40px;
 }
