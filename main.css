@@ -105,14 +105,18 @@ p {
     padding: 0px 30px;
 }
 
-.slide-show .container {
+.slide-show {
     background-image:url('https://images.toogoodbruh.com/beetlehome.jpg'); 
     /*background-image:url(beetlehome.jpg);*/
-    background-repeat: no-repeat;
-    background-size: contain;
     height: 800px;
-    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
     /*top: 100px;*/
+}
+
+.slideshow .container {
+    position: relative;
+    top: 100px;
 }
 
 .content p {
