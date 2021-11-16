@@ -104,23 +104,21 @@ p {
     padding: 0px 30px;
 }
 
-.slide-show {
-    background-image:url('https://images.toogoodbruh.com/beetlehome1.jpg'); 
-    /*background-image:url(beetlehome.jpg);*/
-    /*height: 600px; */
-    background-size: 100% 100%;
-    /*min-height: 20%;*/
+/*.slide-show {
+    background-image:url('https://images.toogoodbruh.com/beetlehome1.jpg');
+    height: 600px; 
     background-repeat: no-repeat;
-    /*background-size: cover; */
+    background-size: cover;
     align-self: center;
     margin-bottom: 20px;
     max-width: 100%;
     min-height: 100%;
-}
+} */
 
-.slide-show .container {
-    position: relative;
-    top: 100px;
+.slide-show img {
+    max-width: 100%;
+    max-height: 50%;
+    padding-bottom: 10px;
 }
 
 .slide-show p {
