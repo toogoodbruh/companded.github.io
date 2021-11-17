@@ -158,6 +158,9 @@ img {
     /*word-wrap: break-word;*/
     /*width: 600px; */
     justify-content: center;
+}
+
+.aboutrows {
     border-top: thin;
     border-top-style: ridge;
 }
@@ -224,23 +227,40 @@ img {
     background-color: aqua;
 }
 
+.collection {
+    max-width: 100%;
+    margin: 0px;
+    justify-content: center;
+}
+
+.collection img {
+    width: 100%;
+    
+}
+
 .holder {
     display: inline-flex;
-    margin-bottom: 10px;
-    width: 100%;
-    align-content: center;
+    margin: 5px 0px 5px 25px;
+    width: 97%;
+    justify-content: center;
+    border: none;
+}
+
+.holder img {
+    max-width: 100%;
 }
 
 .lhold {
-    width: 49%;
+    width: 50%;
     background-color: #f7f7f7;
-    margin: 5px 9px;
+    float: left;
 }
 
 .rhold {
-    width: 49%;
+    width: 50%;
     background-color: #f7f7f7;
-    margin: 5px 9px;
+    margin-left: 5px;
+    float: right;
 } 
 
 .lhold img, .rhold img {
