@@ -220,19 +220,19 @@ img {
 }
 
 .holder {
-
+    display: inline-block;
 }
 
 .lhold {
     width: 49%;
     float: left;
-    margin: 0px 9px;
+    margin: 5px 9px;
 }
 
 .rhold {
     width: 49%;
     float: left;
-    margin: 0px 9px;
+    margin: 5px 9px;
 } 
 
 .lhold img, .rhold img {
