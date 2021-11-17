@@ -189,6 +189,56 @@ img {
     width: 100%;
 }
 
+.home-container img {
+    width: 85%;
+    
+}
+.home-container, .row {
+    border-top: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.home-container {
+    position: relative;
+    margin: auto;
+    flex-grow: 1;
+}
+
+#rcol {
+    margin: 0px 10px;
+    padding: 0px 0px;
+    background-color: aqua;
+}
+
+#lcol {
+    margin: 0px 10px;
+    padding: 0px 0px;
+    background-color: aqua;
+}
+
+.holder {
+
+}
+
+.lhold {
+    width: 49%;
+    float: left;
+    margin: 0px 9px;
+}
+
+.rhold {
+    width: 49%;
+    float: left;
+    margin: 0px 9px;
+} 
+
+.lhold img, .rhold img {
+    width: 100%;
+}
+
 .header {
     padding: 10px 10px;
 }
@@ -201,3 +251,8 @@ img {
 .header h3{
     font-size: 40px;
 }
+
+.header p{
+    font-size: 25px;    
+}
+
