@@ -222,6 +222,7 @@ img {
 
 .holder {
     display: inline-flex;
+    margin-bottom: 10px;
 }
 
 .lhold {
