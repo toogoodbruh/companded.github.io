@@ -25,6 +25,7 @@ html, body {
 .nav {
     padding: 20px 0px 0px 0px;
     position: relative;
+    background-color: #f7f7f7;
 }
 .nav a {
     padding: 20px 10px 20px 10px;
@@ -101,11 +102,11 @@ img {
     margin-top: auto;
     width: 100%;
     text-align: center;
-    border-top: ridge;
+    /*border-top: ridge; */
     padding: 20px 0px 20px 0px;
     height: auto;
     bottom: 0;
-    background-color: #f7f7f7;
+    background-color: #F7F7F7;
 }
 
 .site_footer a {
