@@ -241,6 +241,15 @@ img {
     padding-top: 10px;
 }
 
+.backcol {
+    background-color: none;
+    margin: 0px 0px;
+}
+
+.content {
+    margin: 0px;
+}
+
 /*.collection img {
     max-width: 100%;
     
