@@ -131,9 +131,15 @@ img {
     padding-bottom: 10px;
 }
 
-.slide-show p {
-    font-size: 48px;
+.slide-show h3 {
+    color: aliceblue;
+    font-size: 60px;
     font-weight: bold;
+}
+
+.slide-show .container {
+    position: relative;
+    top: -500px;
 }
 
 .content p {
