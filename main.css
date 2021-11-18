@@ -174,7 +174,7 @@ img {
 
 .about-cols img {
     /*width: 450px;*/
-    width: 85%;
+    width: 100%;
     padding: 20px 0px;
     pointer-events: fill;
 }
