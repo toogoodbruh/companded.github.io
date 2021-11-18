@@ -231,6 +231,10 @@ img {
     width: 100%;
 }
 
+.collection p {
+    padding-top: 10px;
+}
+
 /*.collection img {
     max-width: 100%;
     
