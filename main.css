@@ -231,18 +231,18 @@ img {
     
 }
 
-.collection img {
+/*.collection img {
     max-width: 100%;
     
-}
+} */
 
-.holder {
+/*.holder {
     display: inline-flex;
     margin: 5px 0px 5px 25px;
     width: 97%;
     justify-content: center;
     border: none;
-}
+} */
 
 .holder img {
     max-width: 100%;
