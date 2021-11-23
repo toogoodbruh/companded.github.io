@@ -268,6 +268,20 @@ img {
 }
 */
 
+.dollar1 {
+    align-content: center;
+    padding: 20px 10px 0px 10px;
+}
+
+.dollar1 p {
+    font-size: 16px;
+}
+
+.dollar2 p{
+    font-size: 12px;
+    text-emphasis: bold;
+}
+
 .lhold {
     width: 50%;
     background-color: #f7f7f7;
