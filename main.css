@@ -233,6 +233,19 @@ img {
     background-color: aqua;
 }
 
+.section {
+    border-top: thin;
+    border-top-style: ridge;
+}
+.section h4 {
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+.section p {
+    text-align: left;
+}
+
 .collection img {
     width: 100%;
 }
