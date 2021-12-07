@@ -49,11 +49,18 @@ a {
     color: #393963;
     font-size: 18px;
     font-size-adjust: auto;
+    text-decoration: none;
 }
 
 p {
     font-size: 18px;
     overflow-wrap: break-word;
+}
+
+h3 {
+    font-size: 40px;
+    font-size-adjust: auto;
+    text-align: center;
 }
 
 img {
@@ -290,7 +297,7 @@ img {
     font-size: 16px;
 }
 
-.dollar2 p{
+.dollar2 p {
     font-size: 12px;
     text-emphasis: bold;
 }
@@ -312,7 +319,7 @@ img {
     width: 100%;
 }
 
-.lhold p, .rhold p{
+.lhold p, .rhold p {
     padding: 10px;
 }
 
@@ -325,11 +332,11 @@ img {
     width: 85%;
 }
 
-.header h3{
+.header h3 {
     font-size: 40px;
 }
 
-.header p{
+.header p {
     font-size: 25px;    
 }
 
